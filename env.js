@@ -1,7 +1,7 @@
 window.settings = {
   title: 'Go2Free',
   description: '您离自由只差一步~',
-  host: 'https://api.init6.xyz',
+  host: 'http://suo.im/6sr3Mc',
   theme: {
     sidebar: 'light',
     header: 'dark',
