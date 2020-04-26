@@ -1,6 +1,6 @@
 window.settings = {
   title: 'Go2Free',
-  description: '您离自由只差一步~',
+  description: '您离世界只差一步~',
   host: 'http://suo.im/6sr3Mc',
   theme: {
     sidebar: 'light',
